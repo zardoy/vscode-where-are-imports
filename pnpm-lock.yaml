@@ -3,10 +3,12 @@ lockfileVersion: 5.3
 specifiers:
   '@emotion/css': ^11.1.3
   '@zardoy/tsconfig': ^1.2.1
+  classnames: ^2.3.1
   typescript: ^4.3.5
 
 dependencies:
   '@emotion/css': 11.1.3
+  classnames: 2.3.1
 
 devDependencies:
   '@zardoy/tsconfig': 1.2.1_typescript@4.3.5
@@ -189,6 +191,10 @@ packages:
       ansi-styles: 3.2.1
       escape-string-regexp: 1.0.5
       supports-color: 5.5.0
+    dev: false
+
+  /classnames/2.3.1:
+    resolution: {integrity: sha512-OlQdbZ7gLfGarSqxesMesDa5uz7KFbID8Kpq/SxIoNGDqY8lSYs0D+hhtBXhcdB3rcbXArFr7vlHheLk1voeNA==}
     dev: false
 
   /color-convert/1.9.3:
